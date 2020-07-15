@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="350px" src=".github/logo.png">
+  <img width="350px" src="https://raw.githubusercontent.com/Beroni/Beroni/master/.github/logo.png">
 </p>
 
 ## Bem vindo ao meu perfil ! 👋
