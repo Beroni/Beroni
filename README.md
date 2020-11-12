@@ -15,7 +15,7 @@ Minhas tecnologias preferidas são ReactJS, Typescript e Python 🐍;
 
 Estou em constante aprendizado e sempre me desafiando para aprender novas tecnologias;
 
-As tecnologias que estou estudando no momento é NextJS e Testes de Interface.
+As tecnologias que estou estudando no momento é Golang e Blockchain
 
 ### Hobbies 🎮
 
