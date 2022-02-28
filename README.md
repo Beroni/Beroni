@@ -9,13 +9,11 @@
 
 ### Sobre mim 👨‍💻
 
-Meu nome é João Beróni, sou desenvolvedor full stack e entusiasta de inteligência artificial;
+Meu nome é João Beróni, sou engenheiro de blockchain;
 
-Minhas tecnologias preferidas são ReactJS, Typescript e Python 🐍;
+Minhas tecnologias preferidas são Go,ReactJS, Typescript e Python 🐍;
 
 Estou em constante aprendizado e sempre me desafiando para aprender novas tecnologias;
-
-As tecnologias que estou estudando no momento é Golang e Blockchain
 
 ### Hobbies 🎮
 
