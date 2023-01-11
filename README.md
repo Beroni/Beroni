@@ -1,11 +1,7 @@
-<p align="center">
-  <img width="350px" src="https://raw.githubusercontent.com/Beroni/Beroni/master/.github/logo.png">
-</p>
-
-## Bem vindo ao meu perfil ! 👋
+## Beroni Magalhães
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/beroni/)](https://www.linkedin.com/in/beroni/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:beronimagalhaes@gmail.com)](mailto:beronimagalhaes@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:beronimagalhaes@gmail.com)](mailto:me@beroni.tech)
 
 ### Sobre mim 👨‍💻
 
